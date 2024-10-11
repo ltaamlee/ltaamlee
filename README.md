@@ -8,16 +8,16 @@
   <picture>
     <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
   </picture>
----
+
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <div align="center">
 
 <a href="https://www.instagram.com/ltaam_lee" target="_blank">
-<img src="./ig.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./ig.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/ltaamlee" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/thanhtamle412/" target="_blank">
