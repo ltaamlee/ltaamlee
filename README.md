@@ -6,7 +6,7 @@
 ---
 <h2 align="center">My </h2>
   <picture>
-    <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif">
   </picture>
 
 <h2 align="center">Connect With Me</h2>
