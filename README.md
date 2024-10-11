@@ -9,7 +9,7 @@
     <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
   </picture>
 
-<h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
+<h2 align="center">Connect With Me</h2>
 <div align="center">
 
 <a href="https://www.instagram.com/ltaam_lee" target="_blank">
