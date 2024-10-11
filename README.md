@@ -6,4 +6,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ltaamlee&theme=shadow-green&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ltaamlee&theme=github-dark&fire=EB5454)](https://git.io/streak-stats)
