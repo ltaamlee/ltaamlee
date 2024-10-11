@@ -5,4 +5,3 @@
 - 📫 How to reach me: letam41225@gmail.com
 ---
 
-![Ltaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltaam&show_icons=true&bg_color=00000000)
